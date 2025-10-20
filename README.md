@@ -233,5 +233,6 @@ npm test
 - El código está formateado con StandardJS
 - Los tests cubren funcionalidad crítica de ambos proyectos
 - La API externa requiere autenticación con Bearer token
+- Los ENVS estan escritos en el codigo, esto es para simplificar el proceso de challenge
 
 ---
