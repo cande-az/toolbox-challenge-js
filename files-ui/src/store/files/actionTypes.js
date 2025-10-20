@@ -1,0 +1,8 @@
+// Action types para el manejo de archivos
+export const FETCH_FILES_REQUEST = "FETCH_FILES_REQUEST";
+export const FETCH_FILES_SUCCESS = "FETCH_FILES_SUCCESS";
+export const FETCH_FILES_FAILURE = "FETCH_FILES_FAILURE";
+export const FETCH_FILES_LIST_SUCCESS = "FETCH_FILES_LIST_SUCCESS";
+export const SET_FILE_FILTER = "SET_FILE_FILTER";
+export const SET_SELECTED_FILE = "SET_SELECTED_FILE";
+export const CLEAR_ERROR = "CLEAR_ERROR";
